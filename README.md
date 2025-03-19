@@ -50,7 +50,7 @@ Create a file named ```keys.env``` in the root directory:
 ```bash
 POLYGON_API_KEY=your_polygon_key_here
 ETHEREUM_API_KEY=your_ethereum_key_here
-BITCOIN_API_KEY=your_bitcoin_key_here
+BLOCKCHAIR_API_KEY=your_blockchair_key_here
 ```
 
 ## 🛠️ Usage
